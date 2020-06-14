@@ -1,0 +1,241 @@
+body{
+    background-image: url("images/bg-mobile.svg");
+    background-size:100% 100%;
+    width:100%;
+    background-attachment: fixed;
+    overflow: hidden;
+    font-family: Raleway; 
+    
+}
+
+ #container  {
+    background-color:rgb(15, 15, 34);
+    width: 1900px;  
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Raleway"sans-serif;
+    position: relative;
+    top:-30px;
+    right:300px;
+ }
+
+.card1{
+    position: relative;
+    left: 170px;
+    top:-140px;
+    background-color:rgb(14, 14, 82);
+    width: 400px;
+    height:200px;
+    border-radius: 10px 100px 10px 10px;
+}
+/* CARD2 */
+.card2{
+    position:relative;
+    left:600px;
+    top:-300px;
+    background-color: rgb(14, 14, 82);
+    width:500px;
+    height:160px;
+    border-radius: 15px 15px 15px 15px;
+
+}
+
+.cool{
+    position:relative;
+    top:-10px;
+}
+
+.out{
+    position: relative;
+    bottom:-75px;
+    left: 45px;
+    background-color: rgb(15, 15, 34);
+    width: 400px;
+    height:15px;
+    border-radius: 15px;
+}
+
+.inner{
+    position: relative;
+    bottom:-2px;
+    left:2px;
+    background-color:rgba(228, 155, 167, 0.87);
+    width:310px;
+    height:10px;
+    border-radius:15px ;
+}
+
+
+.dot{
+    position:relative;
+    left:298px;
+    width:10px;
+    height:10px;
+    background-color:white;
+    border-radius: 50%;
+
+}
+
+.used{
+    position: relative;
+    bottom:-60px;
+    left: 40px;
+    color:white;
+    font-family:Raleway;
+    font-weight: w400;
+}
+
+.left{
+    position:relative;
+    bottom:-83px;
+    left:40px;
+    color:white;
+}
+
+.give{
+    position: relative;
+    left:380px;
+    bottom:-65px;
+    color:white;
+}
+
+
+.Files div{
+    display:inline-block;
+    width:50px;
+    height:50px;
+    margin:7px;
+    background-color:rgb(15, 15, 34);
+    border-radius:20%;
+    
+}
+
+.doc{
+    position:relative;
+    left:16px;
+    bottom:-18px;
+    list-style:none;
+}
+
+.fod{
+    position:relative;
+    left:11px;
+    bottom:-18px;
+    list-style:none;
+}
+
+.up{
+    position:relative;
+    left:11px;
+    bottom:-18px;
+    list-style:none;
+}
+
+.logo{
+    position:relative;
+    bottom:-50px;
+    left:40px;
+}
+/* boxs of images*/
+.F1{
+    position:relative;
+    right:15px;
+    bottom: -52px;
+}
+
+
+.F2{
+    position:relative;
+    right:21px;
+    bottom:-48px;
+}
+
+.F3{
+    position:relative;
+    right:27px;
+    bottom:-44px;
+}
+
+/*the clip box*/
+.clip{
+    position:relative;
+    top:-500px;
+    left:871px;
+    background-color:white;
+    width: 170px;
+    height:120px;
+    clip-path: polygon(0 0, 100% 0, 100% 74%, 88% 51%, 0 49%);
+    border-radius:10px;
+
+   
+}
+
+/*In clip */
+
+.No1{
+    position:relative;
+    left:20px;
+    bottom:-9px;
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: Raleway;
+    color: rgb(15, 15, 34);
+
+}
+
+.No2{
+    position:relative;
+    left:40px;
+    top:-40px;
+    font-size: 40px;
+    font-weight: bolder;
+    font-family:Raleway;
+    color: rgb(15, 15, 34);
+
+}
+
+.No3{
+    position:relative;
+    left:65px;
+    top:-75px;
+    font-size: 40px;
+    font-weight: bolder;
+    font-family:Raleway;
+    color: rgb(15, 15, 34);
+
+}
+
+.No4{
+    position:relative;
+    left:95px;
+    top:-110px;
+    font-size: 15px;
+    font-weight: bolder;
+    font-family:Raleway;
+    color:grey;
+}
+
+.one{
+    position:relative;
+    top:-15px;
+    left:90px;
+}
+
+.five{
+    position:relative;
+    top:-33px;
+    left:98px;
+}
+
+
+.four{
+    position:relative;
+    top:-55px;
+    left:110px;
+}
+
+.Go{
+    position:relative;
+    top:-55px;
+}
